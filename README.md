@@ -15,6 +15,8 @@ In Greek, my keynote speech at 6th Panhellenic conference on Digital Culture Her
 Βιβλιογραφικές Αναφορές
 1. Doumanas, D.; Soularidis, A.; Spiliotopoulos, D.; Vassilakis, C.; Kotis, K. Fine-Tuning Large Language Models for Ontology Engineering: A Comparative Analysis of GPT-4 and Mistral. Appl. Sci. 2025, 15, 2146. https://doi.org/10.3390/app15042146  
 2. Doumanas, D.; Ntalouka, E.; Vassilakis, C.; Wallace, M.; Kotis, K. Stitching History into Semantics: LLM-Supported Knowledge Graph Engineering for 19th-Century Greek Bookbinding. Mach. Learn. Knowl. Extr. 2025, 7, 59. https://doi.org/10.3390/make7030059 
-3. Doumanas D, Bouchouras G, Soularidis A, Kotis K, Vouros G. From Human- to LLM-Centered Collaborative Ontology Engineering. Applied Ontology. 2025;19(4):334-367. doi:10.1177/15705838241305067
-4. Litaina, T., Soularidis, A., Bouchouras, G., Kotis, K., & Kavakli, E. (2024). Towards LLM-based Semantic Analysis of Historical Legal Documents. In Proceedings of CEUR-WS Vol. 3724 (short paper).
+3. Doumanas D, Bouchouras G, Soularidis A, Kotis K, Vouros G. From Human- to LLM-Centered Collaborative Ontology Engineering. Applied Ontology. 2025;19(4):334-367. doi:10.1177/15705838241305067 https://journals.sagepub.com/doi/full/10.1177/15705838241305067
+4. Litaina, T., Soularidis, A., Bouchouras, G., Kotis, K., & Kavakli, E. (2024). Towards LLM-based Semantic Analysis of Historical Legal Documents. In Proceedings of CEUR-WS Vol. 3724 (short paper).https://ceur-ws.org/Vol-3724/short2.pdf
+<img width="492" height="59" alt="image" src="https://github.com/user-attachments/assets/a653ce23-6b71-46a6-b49c-622af9eff6e5" />
+
 5. Iantosca, M. (2024). Why Ontologies Are More Critical Than Ever in the Age of Generative and Agentic AI. IBM Content & Knowledge Engineering.
